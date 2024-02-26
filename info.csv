@@ -1,0 +1,427 @@
+"","x","y","Region","ID"
+"10x13",10,13,"Duct Epithelium",0
+"10x14",10,14,"Duct Epithelium",1
+"10x15",10,15,"Duct Epithelium",2
+"10x16",10,16,"Duct Epithelium",3
+"10x17",10,17,"Duct Epithelium",4
+"10x19",10,19,"Duct Epithelium",5
+"10x20",10,20,"Duct Epithelium",6
+"10x24",10,24,"Duct Epithelium",7
+"10x25",10,25,"Duct Epithelium",8
+"10x26",10,26,"Duct Epithelium",9
+"10x27",10,27,"Duct Epithelium",10
+"10x28",10,28,"Duct Epithelium",11
+"10x29",10,29,"Duct Epithelium",12
+"10x30",10,30,"Duct Epithelium",13
+"10x31",10,31,"Duct Epithelium",14
+"10x32",10,32,"Stroma",15
+"10x33",10,33,"Stroma",16
+"11x11",11,11,"Stroma",17
+"11x13",11,13,"Stroma",18
+"11x14",11,14,"Stroma",19
+"11x15",11,15,"Stroma",20
+"11x16",11,16,"Stroma",21
+"11x17",11,17,"Stroma",22
+"11x19",11,19,"Duct Epithelium",23
+"11x21",11,21,"Duct Epithelium",24
+"11x22",11,22,"Duct Epithelium",25
+"11x23",11,23,"Duct Epithelium",26
+"11x24",11,24,"Duct Epithelium",27
+"11x25",11,25,"Duct Epithelium",28
+"11x26",11,26,"Duct Epithelium",29
+"11x27",11,27,"Duct Epithelium",30
+"11x28",11,28,"Duct Epithelium",31
+"11x29",11,29,"Duct Epithelium",32
+"11x30",11,30,"Duct Epithelium",33
+"11x31",11,31,"Stroma",34
+"11x32",11,32,"Stroma",35
+"11x33",11,33,"Stroma",36
+"11x34",11,34,"Stroma",37
+"12x13",12,13,"Stroma",38
+"12x14",12,14,"Stroma",39
+"12x15",12,15,"Stroma",40
+"12x16",12,16,"Stroma",41
+"12x17",12,17,"Stroma",42
+"12x19",12,19,"Duct Epithelium",43
+"12x20",12,20,"Duct Epithelium",44
+"12x21",12,21,"Duct Epithelium",45
+"12x22",12,22,"Duct Epithelium",46
+"12x23",12,23,"Duct Epithelium",47
+"12x24",12,24,"Duct Epithelium",48
+"12x25",12,25,"Duct Epithelium",49
+"12x26",12,26,"Stroma",50
+"12x27",12,27,"Stroma",51
+"12x28",12,28,"Stroma",52
+"12x29",12,29,"Stroma",53
+"12x30",12,30,"Cancer",54
+"12x31",12,31,"Stroma",55
+"12x32",12,32,"Stroma",56
+"12x33",12,33,"Stroma",57
+"12x34",12,34,"Stroma",58
+"13x13",13,13,"Pancreatic",59
+"13x14",13,14,"Stroma",60
+"13x15",13,15,"Pancreatic",61
+"13x16",13,16,"Pancreatic",62
+"13x17",13,17,"Stroma",63
+"13x19",13,19,"Duct Epithelium",64
+"13x20",13,20,"Duct Epithelium",65
+"13x21",13,21,"Duct Epithelium",66
+"13x22",13,22,"Duct Epithelium",67
+"13x23",13,23,"Duct Epithelium",68
+"13x24",13,24,"Duct Epithelium",69
+"13x25",13,25,"Pancreatic",70
+"13x26",13,26,"Pancreatic",71
+"13x27",13,27,"Pancreatic",72
+"13x28",13,28,"Stroma",73
+"13x29",13,29,"Cancer",74
+"13x30",13,30,"Cancer",75
+"13x31",13,31,"Cancer",76
+"13x32",13,32,"Cancer",77
+"13x33",13,33,"Stroma",78
+"13x34",13,34,"Stroma",79
+"14x13",14,13,"Pancreatic",80
+"14x14",14,14,"Pancreatic",81
+"14x15",14,15,"Pancreatic",82
+"14x16",14,16,"Pancreatic",83
+"14x17",14,17,"Pancreatic",84
+"14x18",14,18,"Stroma",85
+"14x19",14,19,"Stroma",86
+"14x20",14,20,"Stroma",87
+"14x21",14,21,"Stroma",88
+"14x22",14,22,"Stroma",89
+"14x23",14,23,"Stroma",90
+"14x24",14,24,"Pancreatic",91
+"14x25",14,25,"Pancreatic",92
+"14x26",14,26,"Pancreatic",93
+"14x27",14,27,"Pancreatic",94
+"14x28",14,28,"Cancer",95
+"14x29",14,29,"Cancer",96
+"14x30",14,30,"Cancer",97
+"14x31",14,31,"Cancer",98
+"14x32",14,32,"Cancer",99
+"14x33",14,33,"Cancer",100
+"14x34",14,34,"Cancer",101
+"15x13",15,13,"Pancreatic",102
+"15x14",15,14,"Pancreatic",103
+"15x15",15,15,"Pancreatic",104
+"15x16",15,16,"Pancreatic",105
+"15x17",15,17,"Pancreatic",106
+"15x18",15,18,"Pancreatic",107
+"15x19",15,19,"Stroma",108
+"15x20",15,20,"Stroma",109
+"15x21",15,21,"Stroma",110
+"15x22",15,22,"Stroma",111
+"15x23",15,23,"Stroma",112
+"15x24",15,24,"Pancreatic",113
+"15x25",15,25,"Pancreatic",114
+"15x26",15,26,"Pancreatic",115
+"15x27",15,27,"Pancreatic",116
+"15x28",15,28,"Pancreatic",117
+"15x29",15,29,"Cancer",118
+"15x30",15,30,"Cancer",119
+"15x31",15,31,"Cancer",120
+"15x32",15,32,"Cancer",121
+"15x33",15,33,"Cancer",122
+"15x34",15,34,"Cancer",123
+"16x13",16,13,"Pancreatic",124
+"16x14",16,14,"Pancreatic",125
+"16x15",16,15,"Pancreatic",126
+"16x16",16,16,"Pancreatic",127
+"16x17",16,17,"Pancreatic",128
+"16x18",16,18,"Pancreatic",129
+"16x19",16,19,"Stroma",130
+"16x20",16,20,"Stroma",131
+"16x21",16,21,"Stroma",132
+"16x22",16,22,"Stroma",133
+"16x23",16,23,"Stroma",134
+"16x24",16,24,"Pancreatic",135
+"16x25",16,25,"Pancreatic",136
+"16x26",16,26,"Pancreatic",137
+"16x27",16,27,"Pancreatic",138
+"16x28",16,28,"Pancreatic",139
+"16x30",16,30,"Cancer",140
+"16x31",16,31,"Cancer",141
+"16x32",16,32,"Cancer",142
+"16x33",16,33,"Cancer",143
+"16x34",16,34,"Cancer",144
+"17x13",17,13,"Pancreatic",145
+"17x14",17,14,"Pancreatic",146
+"17x15",17,15,"Pancreatic",147
+"17x16",17,16,"Pancreatic",148
+"17x17",17,17,"Pancreatic",149
+"17x18",17,18,"Pancreatic",150
+"17x19",17,19,"Stroma",151
+"17x20",17,20,"Stroma",152
+"17x21",17,21,"Stroma",153
+"17x22",17,22,"Pancreatic",154
+"17x23",17,23,"Stroma",155
+"17x24",17,24,"Stroma",156
+"17x25",17,25,"Pancreatic",157
+"17x26",17,26,"Pancreatic",158
+"17x28",17,28,"Cancer",159
+"17x29",17,29,"Cancer",160
+"17x30",17,30,"Cancer",161
+"17x31",17,31,"Cancer",162
+"17x32",17,32,"Cancer",163
+"17x33",17,33,"Cancer",164
+"17x34",17,34,"Cancer",165
+"18x13",18,13,"Pancreatic",166
+"18x14",18,14,"Pancreatic",167
+"18x15",18,15,"Pancreatic",168
+"18x16",18,16,"Pancreatic",169
+"18x17",18,17,"Pancreatic",170
+"18x18",18,18,"Pancreatic",171
+"18x19",18,19,"Stroma",172
+"18x20",18,20,"Stroma",173
+"18x21",18,21,"Pancreatic",174
+"18x22",18,22,"Pancreatic",175
+"18x23",18,23,"Pancreatic",176
+"18x24",18,24,"Stroma",177
+"18x25",18,25,"Stroma",178
+"18x26",18,26,"Stroma",179
+"18x28",18,28,"Cancer",180
+"18x29",18,29,"Cancer",181
+"18x30",18,30,"Cancer",182
+"18x31",18,31,"Cancer",183
+"18x32",18,32,"Cancer",184
+"18x33",18,33,"Cancer",185
+"18x34",18,34,"Cancer",186
+"19x13",19,13,"Pancreatic",187
+"19x14",19,14,"Stroma",188
+"19x15",19,15,"Stroma",189
+"19x17",19,17,"Pancreatic",190
+"19x18",19,18,"Pancreatic",191
+"19x19",19,19,"Pancreatic",192
+"19x20",19,20,"Stroma",193
+"19x21",19,21,"Stroma",194
+"19x22",19,22,"Pancreatic",195
+"19x23",19,23,"Pancreatic",196
+"19x24",19,24,"Pancreatic",197
+"19x25",19,25,"Stroma",198
+"19x26",19,26,"Stroma",199
+"19x27",19,27,"Stroma",200
+"19x28",19,28,"Stroma",201
+"19x29",19,29,"Cancer",202
+"19x30",19,30,"Cancer",203
+"19x31",19,31,"Cancer",204
+"19x32",19,32,"Cancer",205
+"19x33",19,33,"Cancer",206
+"19x34",19,34,"Cancer",207
+"20x13",20,13,"Stroma",208
+"20x14",20,14,"Stroma",209
+"20x15",20,15,"Stroma",210
+"20x16",20,16,"Stroma",211
+"20x17",20,17,"Stroma",212
+"20x18",20,18,"Stroma",213
+"20x19",20,19,"Pancreatic",214
+"20x20",20,20,"Stroma",215
+"20x21",20,21,"Stroma",216
+"20x22",20,22,"Pancreatic",217
+"20x23",20,23,"Pancreatic",218
+"20x24",20,24,"Pancreatic",219
+"20x25",20,25,"Stroma",220
+"20x26",20,26,"Stroma",221
+"20x27",20,27,"Stroma",222
+"20x28",20,28,"Cancer",223
+"20x29",20,29,"Cancer",224
+"20x30",20,30,"Cancer",225
+"20x31",20,31,"Cancer",226
+"20x32",20,32,"Cancer",227
+"20x33",20,33,"Cancer",228
+"20x34",20,34,"Cancer",229
+"21x14",21,14,"Stroma",230
+"21x15",21,15,"Stroma",231
+"21x16",21,16,"Stroma",232
+"21x17",21,17,"Stroma",233
+"21x18",21,18,"Stroma",234
+"21x19",21,19,"Stroma",235
+"21x20",21,20,"Stroma",236
+"21x21",21,21,"Stroma",237
+"21x22",21,22,"Pancreatic",238
+"21x23",21,23,"Pancreatic",239
+"21x24",21,24,"Pancreatic",240
+"21x25",21,25,"Stroma",241
+"21x26",21,26,"Stroma",242
+"21x28",21,28,"Cancer",243
+"21x29",21,29,"Cancer",244
+"21x30",21,30,"Cancer",245
+"21x31",21,31,"Cancer",246
+"21x32",21,32,"Cancer",247
+"21x33",21,33,"Cancer",248
+"22x14",22,14,"Stroma",249
+"22x15",22,15,"Stroma",250
+"22x16",22,16,"Stroma",251
+"22x17",22,17,"Stroma",252
+"22x18",22,18,"Stroma",253
+"22x19",22,19,"Stroma",254
+"22x20",22,20,"Stroma",255
+"22x21",22,21,"Stroma",256
+"22x23",22,23,"Pancreatic",257
+"22x24",22,24,"Cancer",258
+"22x25",22,25,"Stroma",259
+"22x26",22,26,"Cancer",260
+"22x27",22,27,"Cancer",261
+"22x28",22,28,"Cancer",262
+"22x29",22,29,"Cancer",263
+"22x30",22,30,"Cancer",264
+"22x31",22,31,"Cancer",265
+"22x32",22,32,"Cancer",266
+"22x33",22,33,"Cancer",267
+"23x15",23,15,"Stroma",268
+"23x16",23,16,"Stroma",269
+"23x17",23,17,"Cancer",270
+"23x18",23,18,"Cancer",271
+"23x19",23,19,"Cancer",272
+"23x20",23,20,"Stroma",273
+"23x21",23,21,"Stroma",274
+"23x22",23,22,"Stroma",275
+"23x23",23,23,"Stroma",276
+"23x24",23,24,"Cancer",277
+"23x25",23,25,"Cancer",278
+"23x26",23,26,"Cancer",279
+"23x27",23,27,"Cancer",280
+"23x28",23,28,"Cancer",281
+"23x29",23,29,"Cancer",282
+"23x30",23,30,"Cancer",283
+"23x31",23,31,"Cancer",284
+"23x32",23,32,"Cancer",285
+"24x16",24,16,"Stroma",286
+"24x17",24,17,"Cancer",287
+"24x18",24,18,"Cancer",288
+"24x19",24,19,"Cancer",289
+"24x20",24,20,"Stroma",290
+"24x21",24,21,"Stroma",291
+"24x22",24,22,"Cancer",292
+"24x23",24,23,"Cancer",293
+"24x24",24,24,"Cancer",294
+"24x25",24,25,"Cancer",295
+"24x26",24,26,"Cancer",296
+"24x27",24,27,"Cancer",297
+"24x28",24,28,"Cancer",298
+"24x29",24,29,"Cancer",299
+"24x30",24,30,"Cancer",300
+"24x31",24,31,"Cancer",301
+"24x32",24,32,"Cancer",302
+"25x17",25,17,"Cancer",303
+"25x18",25,18,"Cancer",304
+"25x19",25,19,"Cancer",305
+"25x20",25,20,"Stroma",306
+"25x21",25,21,"Cancer",307
+"25x22",25,22,"Cancer",308
+"25x23",25,23,"Cancer",309
+"25x24",25,24,"Cancer",310
+"25x25",25,25,"Cancer",311
+"25x26",25,26,"Cancer",312
+"25x27",25,27,"Cancer",313
+"25x28",25,28,"Cancer",314
+"25x29",25,29,"Cancer",315
+"25x30",25,30,"Cancer",316
+"25x31",25,31,"Cancer",317
+"25x32",25,32,"Cancer",318
+"26x17",26,17,"Stroma",319
+"26x18",26,18,"Stroma",320
+"26x19",26,19,"Cancer",321
+"26x20",26,20,"Stroma",322
+"26x21",26,21,"Cancer",323
+"26x22",26,22,"Cancer",324
+"26x23",26,23,"Cancer",325
+"26x24",26,24,"Cancer",326
+"26x25",26,25,"Cancer",327
+"26x26",26,26,"Cancer",328
+"26x27",26,27,"Cancer",329
+"26x28",26,28,"Cancer",330
+"26x29",26,29,"Cancer",331
+"26x30",26,30,"Cancer",332
+"26x31",26,31,"Cancer",333
+"27x18",27,18,"Stroma",334
+"27x19",27,19,"Stroma",335
+"27x20",27,20,"Stroma",336
+"27x21",27,21,"Cancer",337
+"27x22",27,22,"Cancer",338
+"27x23",27,23,"Cancer",339
+"27x25",27,25,"Cancer",340
+"27x26",27,26,"Cancer",341
+"27x27",27,27,"Cancer",342
+"27x28",27,28,"Cancer",343
+"28x18",28,18,"Stroma",344
+"28x19",28,19,"Stroma",345
+"28x20",28,20,"Stroma",346
+"28x21",28,21,"Cancer",347
+"28x22",28,22,"Cancer",348
+"28x23",28,23,"Cancer",349
+"28x25",28,25,"Cancer",350
+"28x26",28,26,"Cancer",351
+"29x19",29,19,"Stroma",352
+"29x20",29,20,"Cancer",353
+"29x21",29,21,"Cancer",354
+"29x22",29,22,"Cancer",355
+"29x23",29,23,"Cancer",356
+"2x14",2,14,"Stroma",357
+"2x15",2,15,"Stroma",358
+"2x16",2,16,"Stroma",359
+"2x17",2,17,"Duct Epithelium",360
+"2x18",2,18,"Duct Epithelium",361
+"30x20",30,20,"Cancer",362
+"30x21",30,21,"Cancer",363
+"30x22",30,22,"Cancer",364
+"3x13",3,13,"Stroma",365
+"3x14",3,14,"Stroma",366
+"3x15",3,15,"Stroma",367
+"3x16",3,16,"Stroma",368
+"3x17",3,17,"Duct Epithelium",369
+"3x18",3,18,"Duct Epithelium",370
+"4x10",4,10,"Stroma",371
+"4x11",4,11,"Stroma",372
+"4x13",4,13,"Stroma",373
+"4x14",4,14,"Stroma",374
+"4x15",4,15,"Stroma",375
+"4x16",4,16,"Duct Epithelium",376
+"4x17",4,17,"Duct Epithelium",377
+"4x8",4,8,"Stroma",378
+"4x9",4,9,"Stroma",379
+"5x10",5,10,"Stroma",380
+"5x11",5,11,"Stroma",381
+"5x13",5,13,"Stroma",382
+"5x14",5,14,"Stroma",383
+"5x15",5,15,"Stroma",384
+"5x16",5,16,"Duct Epithelium",385
+"5x17",5,17,"Duct Epithelium",386
+"5x8",5,8,"Stroma",387
+"5x9",5,9,"Stroma",388
+"6x10",6,10,"Stroma",389
+"6x11",6,11,"Stroma",390
+"6x13",6,13,"Stroma",391
+"6x14",6,14,"Stroma",392
+"6x15",6,15,"Duct Epithelium",393
+"6x16",6,16,"Duct Epithelium",394
+"6x31",6,31,"Duct Epithelium",395
+"6x32",6,32,"Duct Epithelium",396
+"6x33",6,33,"Duct Epithelium",397
+"6x9",6,9,"Stroma",398
+"7x10",7,10,"Stroma",399
+"7x11",7,11,"Stroma",400
+"7x13",7,13,"Duct Epithelium",401
+"7x14",7,14,"Duct Epithelium",402
+"7x31",7,31,"Duct Epithelium",403
+"7x32",7,32,"Duct Epithelium",404
+"7x33",7,33,"Duct Epithelium",405
+"8x10",8,10,"Stroma",406
+"8x11",8,11,"Stroma",407
+"8x13",8,13,"Duct Epithelium",408
+"8x14",8,14,"Duct Epithelium",409
+"8x31",8,31,"Duct Epithelium",410
+"8x32",8,32,"Duct Epithelium",411
+"8x33",8,33,"Duct Epithelium",412
+"9x10",9,10,"Stroma",413
+"9x11",9,11,"Stroma",414
+"9x13",9,13,"Duct Epithelium",415
+"9x16",9,16,"Duct Epithelium",416
+"9x17",9,17,"Duct Epithelium",417
+"9x18",9,18,"Duct Epithelium",418
+"9x26",9,26,"Duct Epithelium",419
+"9x27",9,27,"Duct Epithelium",420
+"9x29",9,29,"Duct Epithelium",421
+"9x30",9,30,"Duct Epithelium",422
+"9x31",9,31,"Duct Epithelium",423
+"9x32",9,32,"Duct Epithelium",424
+"9x33",9,33,"Stroma",425
