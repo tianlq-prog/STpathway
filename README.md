@@ -1,7 +1,7 @@
 # STPathway -- A Robust Statistical Approach for Finding Informative Spatially Associated Pathways
 Spatial transcriptomics offers deep insights into cellular functional localization and communication by mapping gene expression to spatial locations. Traditional methods focus on selecting spatially variable genes, which often miss the complexity of biological pathways and network dynamics. Here, we introduce a novel framework, STPathway, that shifts the focus towards directly identifying functional pathways associated with spatial variability. This method adapts the Brownian distance covariance test in an innovative manner to explore the heterogeneity of biological functions over space. Unlike most other methods, this statistical testing approach is free of gene selection and parameter selection, allowing for the detection of nonlinear and complex dependencies.
 
-![workflow](https://github.com/tianlq-prog/STpathway/blob/main/figure/frame_loc.pdf)
+![workflow](https://github.com/tianlq-prog/STpathway/blob/main/figure/frame_loc.png)
 
 # Tutorial 
 
@@ -11,7 +11,7 @@ https://github.com/tianlq-prog/STpathway/blob/main/PDAC_example.ipynb
 
 In the tutorial we utilize the human pancreatic ductal adenocarcinoma (PDAC) data as example and show the case of analyzing location related pathways and cancer edge realted pathways.
 
-![PDAC data](https://github.com/tianlq-prog/STpathway/blob/main/figure/pdac_data.pdf)
+![PDAC data](https://github.com/tianlq-prog/STpathway/blob/main/figure/pdac_data.png)
 
 We first use the function 'find_pathway' to find out all potential pathways, then use the function 'brownian_testing' to conduct testing on each pathway expression verus the spatial location. 
 
@@ -25,6 +25,7 @@ path_res = path_res.reset_index(drop=True)
 ![Location_related_table](https://github.com/tianlq-prog/STpathway/blob/main/figure/pdac_loc_table.png)
 
 To further analyze the cancer edge-related pathways, we first identify the edge areas. The edge ratio is then adjusted according to the scale of the location axis.
+
 
 ```pythonscript
 # Find edge nodes
@@ -44,6 +45,8 @@ for i in range(len(info['Region'])):
 info['Type'] = edge
 ```
 For each pathway, we test the difference among the cancer inner region and edge region. 
+
+![workflow_edge](https://github.com/tianlq-prog/STpathway/blob/main/figure/frame_edge.png)
 
 ```pythonscript
 output_csv = 'PDAC_edge_example.csv'
