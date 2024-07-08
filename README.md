@@ -11,7 +11,7 @@ https://github.com/tianlq-prog/STpathway/blob/main/PDAC_example.ipynb
 
 In the tutorial we utilize the human pancreatic ductal adenocarcinoma (PDAC) data as example and show the case of analyzing location related pathways and cancer edge realted pathways.
 
-![PDAC data](https://github.com/tianlq-prog/STpathway/blob/main/figure/pdac_data.png)
+![PDAC data](https://github.com/tianlq-prog/STpathway/blob/main/figure/pdac.png)
 
 We first use the function 'find_pathway' to find out all potential pathways, then use the function 'brownian_testing' to conduct testing on each pathway expression verus the spatial location. 
 
